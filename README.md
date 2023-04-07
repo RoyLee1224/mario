@@ -21,3 +21,10 @@ adventure theme/ SuperHero - https://opengameart.org/content/adventure-theme
 3. Add ui files in graphics(coins,healthbar)
 4. Add ui.py
 5. Modify main.py to create an instance of the UI class, update the run method to display health, and pass the update_health function to the Level class
+
+# TO-DO
+
+1. Killing monsters
+2. Collecting coins
+3. Selecting mode(use editor maker or play default levels)
+4. Game over setting(Falling out of map or collecting enough coins)
